@@ -1,0 +1,9 @@
+/* body{
+    background-image: url(image.jpeg);
+    background-repeat: no-repeat;
+    background-origin: border-box;
+    background-size:cover;
+} */
+.cardsWidth{
+    width: 18rem;
+}
